@@ -8,7 +8,7 @@ public class MidtermExamApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MidtermExamApplication.class, args);
-		System.out.println("Midterm Exam Application Started");
+		System.out.println("중간고사 프로젝트 생성 성공");
 	}
 
 }
